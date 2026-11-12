@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="83 96 834 277" role="img" aria-labelledby="title description">
+  <title id="title">VALUE</title>
+  <desc id="description">A cream house-shaped sign framed by a blue roof, golden left edge, coral right edge, and green base, with VALUE in bold dark sans-serif lettering.</desc>
+  <path d="M 98 193 L 500 113 L 902 193 L 902 360 L 98 360 Z" fill="#eeece5"/>
+  <path d="M 89 184 L 500 100 L 911 184 L 911 206 L 500 123 L 89 206 Z" fill="#82b2df"/>
+  <path d="M 105 199 L 500 119 L 895 199 L 895 207 L 500 128 L 105 207 Z" fill="#4596bf"/>
+  <path d="M 94 347 H 906 V 369 H 94 Z" fill="#008e79"/>
+  <path d="M 105 348 H 895 V 355 H 105 Z" fill="#39a58c"/>
+  <path d="M 87 184 H 105 V 369 H 87 Z" fill="#ffb900"/>
+  <path d="M 87 184 H 93 V 369 H 87 Z" fill="#ffd038"/>
+  <path d="M 895 184 H 913 V 369 H 895 Z" fill="#f15b3e"/>
+  <path d="M 906 184 H 913 V 369 H 906 Z" fill="#ff7454"/>
+  <text x="500" y="309" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="132" font-weight="900" letter-spacing="-6" fill="#28291f">VALUE</text>
+</svg>
