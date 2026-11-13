@@ -1,6 +1,6 @@
 # myvalue
 
-A minimal English/Korean values reflection, built for a phone-sized screen on every device. Nickname → Short or Detailed survey on one continuous page → values profile → shareable result. No dependencies, accounts, database, external fonts, or analytics.
+A minimal English/Korean values reflection, built for a phone-sized screen on every device. Nickname → Short or Detailed survey on one continuous page → values profile → shareable result. No account, server-side database, or external fonts. Vercel Web Analytics collects aggregated page-view statistics.
 
 ## Run
 
